@@ -1,7 +1,5 @@
-.idea
 node_modules
 .env
 .prod.env
 package-lock.json
 notes-api-webserver.pem
-postman-testing
