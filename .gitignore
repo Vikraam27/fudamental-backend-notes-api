@@ -3,3 +3,4 @@ node_modules
 .prod.env
 package-lock.json
 notes-api-webserver.pem
+src/api/uploads/file
